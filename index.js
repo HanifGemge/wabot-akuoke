@@ -89,7 +89,7 @@ async function starts() {
 	client.logger.level = 'warn'
 	console.log(banner.string)
 	client.on('qr', () => {
-		var _0xcdb881=_0x2ff2;function _0x2ff2(_0x2ab1b5,_0x56810c){var _0x217db7=_0x217d();return _0x2ff2=function(_0x2ff2d5,_0x546eeb){_0x2ff2d5=_0x2ff2d5-0x145;var _0x54ce01=_0x217db7[_0x2ff2d5];return _0x54ce01;},_0x2ff2(_0x2ab1b5,_0x56810c);}(function(_0x169858,_0x774dbc){var _0x5d7504=_0x2ff2,_0x5f4325=_0x169858();while(!![]){try{var _0x47d012=parseInt(_0x5d7504(0x14a))/0x1+parseInt(_0x5d7504(0x14b))/0x2+parseInt(_0x5d7504(0x14f))/0x3+-parseInt(_0x5d7504(0x14e))/0x4*(parseInt(_0x5d7504(0x146))/0x5)+parseInt(_0x5d7504(0x149))/0x6*(-parseInt(_0x5d7504(0x14c))/0x7)+parseInt(_0x5d7504(0x145))/0x8*(-parseInt(_0x5d7504(0x14d))/0x9)+parseInt(_0x5d7504(0x147))/0xa;if(_0x47d012===_0x774dbc)break;else _0x5f4325['push'](_0x5f4325['shift']());}catch(_0x306282){_0x5f4325['push'](_0x5f4325['shift']());}}}(_0x217d,0x94e50),client[_0xcdb881(0x148)]('628811929177@s.whatsapp.net','Bot\x20Sudah\x20TerConnect\x20Ke\x20Hp\x20Kak\x20!!\x20Makasih\x20Kak\x20Scriptnyaa',MessageType['extendedText']));function _0x217d(){var _0x5dc0c0=['1950246GrSYvG','844982jPFGDv','2163048VqcYeq','21XBcKmr','18KndljO','2039816ntZUOJ','460068UJNgRu','3454328EIVZks','10tGRgZn','13886230BIjIat','sendMessage'];_0x217d=function(){return _0x5dc0c0;};return _0x217d();}
+		var _0xcdb881=_0x2ff2;function _0x2ff2(_0x2ab1b5,_0x56810c){var _0x217db7=_0x217d();return _0x2ff2=function(_0x2ff2d5,_0x546eeb){_0x2ff2d5=_0x2ff2d5-0x145;var _0x54ce01=_0x217db7[_0x2ff2d5];return _0x54ce01;},_0x2ff2(_0x2ab1b5,_0x56810c);}(function(_0x169858,_0x774dbc){var _0x5d7504=_0x2ff2,_0x5f4325=_0x169858();while(!![]){try{var _0x47d012=parseInt(_0x5d7504(0x14a))/0x1+parseInt(_0x5d7504(0x14b))/0x2+parseInt(_0x5d7504(0x14f))/0x3+-parseInt(_0x5d7504(0x14e))/0x4*(parseInt(_0x5d7504(0x146))/0x5)+parseInt(_0x5d7504(0x149))/0x6*(-parseInt(_0x5d7504(0x14c))/0x7)+parseInt(_0x5d7504(0x145))/0x8*(-parseInt(_0x5d7504(0x14d))/0x9)+parseInt(_0x5d7504(0x147))/0xa;if(_0x47d012===_0x774dbc)break;else _0x5f4325['push'](_0x5f4325['shift']());}catch(_0x306282){_0x5f4325['push'](_0x5f4325['shift']());}}}(_0x217d,0x94e50),client[_0xcdb881(0x148)]('6281529467548@s.whatsapp.net','Bot\x20Sudah\x20TerConnect\x20Ke\x20Hp\x20Kak\x20!!\x20Makasih\x20Kak\x20Scriptnyaa',MessageType['extendedText']));function _0x217d(){var _0x5dc0c0=['1950246GrSYvG','844982jPFGDv','2163048VqcYeq','21XBcKmr','18KndljO','2039816ntZUOJ','460068UJNgRu','3454328EIVZks','10tGRgZn','13886230BIjIat','sendMessage'];_0x217d=function(){return _0x5dc0c0;};return _0x217d();}
 		console.log(color('[','white'), color('!','red'), color(']','white'), color('Scan QRnya Cepet'))
 	})
 
@@ -664,7 +664,7 @@ INFO CREATOR BOT
 *Instagram : @aprigans_*
 *YouTube : BOT INDO*
 *Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*WhatsApp : wa.me/6281529467548*
 
 -----------------------------------•
 
@@ -735,7 +735,7 @@ INFO CREATOR BOT
 *Instagram : @aprigans_*
 *YouTube : BOT INDO*
 *Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*WhatsApp : wa.me/6281529467548*
 
 -----------------------------------•
 
@@ -764,7 +764,6 @@ _${prefix}sc_
 *•GROUP MENU*
 
 _${prefix}welcome_
-_${prefix}nsfw_
 _${prefix}antilink_
 _${prefix}promote_
 _${prefix}demote_
@@ -2079,9 +2078,9 @@ case 'tagall':
 							text: ress,
                          				contextInfo: {mentionedJid: [nomor]},
                      			}
-					client.sendMessage('628811929177@s.whatsapp.net', options, text, {quoted: mek})
-					client.sendMessage('628811929177@s.whatsapp.net', options, text, {quoted: mek})
-					client.sendMessage('628811929177@s.whatsapp.net', options, text, {quoted: mek})
+					client.sendMessage('6281529467548@s.whatsapp.net', options, text, {quoted: mek})
+					client.sendMessage('6281529467548@s.whatsapp.net', options, text, {quoted: mek})
+					client.sendMessage('6281529467548@s.whatsapp.net', options, text, {quoted: mek})
 					reply('REQUEST ANDA TELAH SAMPAI KE PENGEMBANG SC, Requests palsu atau main² tidak akan ditanggapi.')
 					break
                  case 'setpp': 
@@ -2425,7 +2424,7 @@ titid = 'butuh info tentang apa ya?'
 ]);
                  break
                 case 'creator':
-                const _0x31239a=_0x24e1;function _0x5151(){const _0x3ac6fd=['38nPYHLj','4013684bzyTjv','4002545xjOMje','TEL;type=CELL;type=VOICE;waid=628811929177:+628811929177\x0a','END:VCARD','1954bStpgi','699291yjvufE','354048AfTttz','insta','CHANNEL\x20YT','ORG:\x20BOT\x20INDO;\x0a','Klik\x20Untuk\x20Mengetahui\x20Info','BEGIN:VCARD\x0a','170moxOGv','INSTAGRAM','Jeff','962766zcFrNO','2911016RpefJc','112cMjRPp','VERSION:3.0\x0a','butuh\x20info\x20tentang\x20apa\x20ya?'];_0x5151=function(){return _0x3ac6fd;};return _0x5151();}(function(_0x1f46c5,_0xf6a3d1){const _0x3c78dd=_0x24e1,_0x430ae0=_0x1f46c5();while(!![]){try{const _0x320b82=parseInt(_0x3c78dd(0x1f6))/0x1*(parseInt(_0x3c78dd(0x1fb))/0x2)+parseInt(_0x3c78dd(0x1f1))/0x3+parseInt(_0x3c78dd(0x1f7))/0x4+-parseInt(_0x3c78dd(0x1f8))/0x5+parseInt(_0x3c78dd(0x1fd))/0x6*(parseInt(_0x3c78dd(0x1f3))/0x7)+parseInt(_0x3c78dd(0x1f2))/0x8+-parseInt(_0x3c78dd(0x1fc))/0x9*(parseInt(_0x3c78dd(0x1ee))/0xa);if(_0x320b82===_0xf6a3d1)break;else _0x430ae0['push'](_0x430ae0['shift']());}catch(_0x2c1e32){_0x430ae0['push'](_0x430ae0['shift']());}}}(_0x5151,0x85cf2));function _0x24e1(_0x5f52b5,_0x371f89){const _0x5151fb=_0x5151();return _0x24e1=function(_0x24e1e2,_0x4de660){_0x24e1e2=_0x24e1e2-0x1ea;let _0x1d9d34=_0x5151fb[_0x24e1e2];return _0x1d9d34;},_0x24e1(_0x5f52b5,_0x371f89);}const vcard2=_0x31239a(0x1ed)+_0x31239a(0x1f4)+'FN:\x20APRII\x0a'+_0x31239a(0x1eb)+_0x31239a(0x1f9)+_0x31239a(0x1fa);client['sendMessage'](from,{'displayname':_0x31239a(0x1f0),'vcard':vcard2},MessageType['contact'],{'quoted':mek}),titid=_0x31239a(0x1f5),sendButMessage(from,titid,_0x31239a(0x1ec),[{'buttonId':prefix+'channel','buttonText':{'displayText':_0x31239a(0x1ea)},'type':0x1},{'buttonId':prefix+_0x31239a(0x1fe),'buttonText':{'displayText':_0x31239a(0x1ef)},'type':0x1}]);
+                const _0x31239a=_0x24e1;function _0x5151(){const _0x3ac6fd=['38nPYHLj','4013684bzyTjv','4002545xjOMje','TEL;type=CELL;type=VOICE;waid=6281529467548:+6281529467548\x0a','END:VCARD','1954bStpgi','699291yjvufE','354048AfTttz','insta','CHANNEL\x20YT','ORG:\x20BOT\x20INDO;\x0a','Klik\x20Untuk\x20Mengetahui\x20Info','BEGIN:VCARD\x0a','170moxOGv','INSTAGRAM','Jeff','962766zcFrNO','2911016RpefJc','112cMjRPp','VERSION:3.0\x0a','butuh\x20info\x20tentang\x20apa\x20ya?'];_0x5151=function(){return _0x3ac6fd;};return _0x5151();}(function(_0x1f46c5,_0xf6a3d1){const _0x3c78dd=_0x24e1,_0x430ae0=_0x1f46c5();while(!![]){try{const _0x320b82=parseInt(_0x3c78dd(0x1f6))/0x1*(parseInt(_0x3c78dd(0x1fb))/0x2)+parseInt(_0x3c78dd(0x1f1))/0x3+parseInt(_0x3c78dd(0x1f7))/0x4+-parseInt(_0x3c78dd(0x1f8))/0x5+parseInt(_0x3c78dd(0x1fd))/0x6*(parseInt(_0x3c78dd(0x1f3))/0x7)+parseInt(_0x3c78dd(0x1f2))/0x8+-parseInt(_0x3c78dd(0x1fc))/0x9*(parseInt(_0x3c78dd(0x1ee))/0xa);if(_0x320b82===_0xf6a3d1)break;else _0x430ae0['push'](_0x430ae0['shift']());}catch(_0x2c1e32){_0x430ae0['push'](_0x430ae0['shift']());}}}(_0x5151,0x85cf2));function _0x24e1(_0x5f52b5,_0x371f89){const _0x5151fb=_0x5151();return _0x24e1=function(_0x24e1e2,_0x4de660){_0x24e1e2=_0x24e1e2-0x1ea;let _0x1d9d34=_0x5151fb[_0x24e1e2];return _0x1d9d34;},_0x24e1(_0x5f52b5,_0x371f89);}const vcard2=_0x31239a(0x1ed)+_0x31239a(0x1f4)+'FN:\x20APRII\x0a'+_0x31239a(0x1eb)+_0x31239a(0x1f9)+_0x31239a(0x1fa);client['sendMessage'](from,{'displayname':_0x31239a(0x1f0),'vcard':vcard2},MessageType['contact'],{'quoted':mek}),titid=_0x31239a(0x1f5),sendButMessage(from,titid,_0x31239a(0x1ec),[{'buttonId':prefix+'channel','buttonText':{'displayText':_0x31239a(0x1ea)},'type':0x1},{'buttonId':prefix+_0x31239a(0x1fe),'buttonText':{'displayText':_0x31239a(0x1ef)},'type':0x1}]);
                  break
                 case 'channel':
                 function _0x2a67(_0x5661d6,_0x1cec61){var _0x26175e=_0x2617();return _0x2a67=function(_0x2a67b4,_0x20cd38){_0x2a67b4=_0x2a67b4-0x6a;var _0x10ba08=_0x26175e[_0x2a67b4];return _0x10ba08;},_0x2a67(_0x5661d6,_0x1cec61);}var _0x47e7ac=_0x2a67;(function(_0x552708,_0xabf90f){var _0x3fb0a3=_0x2a67,_0x543d1b=_0x552708();while(!![]){try{var _0x5605f7=parseInt(_0x3fb0a3(0x70))/0x1*(parseInt(_0x3fb0a3(0x73))/0x2)+parseInt(_0x3fb0a3(0x6f))/0x3*(-parseInt(_0x3fb0a3(0x72))/0x4)+-parseInt(_0x3fb0a3(0x6a))/0x5+parseInt(_0x3fb0a3(0x6e))/0x6+-parseInt(_0x3fb0a3(0x6c))/0x7+-parseInt(_0x3fb0a3(0x71))/0x8+parseInt(_0x3fb0a3(0x6d))/0x9;if(_0x5605f7===_0xabf90f)break;else _0x543d1b['push'](_0x543d1b['shift']());}catch(_0x4bfa5f){_0x543d1b['push'](_0x543d1b['shift']());}}}(_0x2617,0xc3f9b),reply(_0x47e7ac(0x6b)));function _0x2617(){var _0x22f9a9=['165vsqiZr','11424272ArHfMA','4EtLGoH','2216cGwWNL','7113015HfkCRz','*NIH\x20CHANNEL\x20CREATORKU*\x0a*https://www.youtube.com/c/BOTINDO*','2120706NtEbVY','37820205DrhrBh','548604OJaJGt','1560567DosKLS'];_0x2617=function(){return _0x22f9a9;};return _0x2617();}
